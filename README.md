@@ -1,5 +1,20 @@
 # DailyFortune
-Using Callable function to better understanding python's Decorator
 
-공부한 것 복습할 겸..! 
-자연어 처리 할 때 유용하게 쓰이길 바랍니다 ^^!
+ *꧁༺༻꧂* PURPOSE :
+Using Callable function to better understanding python's Decorator
+It facillitates your python code when analysing or NLP system.
+
+
+AND
+ ค^•ﻌ•^ค  ʅʕ´•ﻌ•`ʔʃ 
+Wish Your Best Luck with DAILY FORTUNE!!
+
+ ✧ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧ 
+ 
+ 
+ The RESULT (OUTPUT) LIKE‥─━★‥─━★‥─━★
+<===Your 2020-07-14 Daily Fortune===>
+You will have "lively" today
+with "diligent".
+<===Your 2020-07-14 Daily Fortune===>
+ 
