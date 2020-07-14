@@ -2,7 +2,7 @@
 
  *꧁༺༻꧂* PURPOSE :
 Using Callable function to better understanding python's Decorator
-It facillitates your python code when analysing or NLP system.
+&nbspIt facillitates your python code when analysing or NLP system.
 
 
 AND
@@ -12,9 +12,9 @@ Wish Your Best Luck with DAILY FORTUNE!!
  ✧ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧ 
  
  
- The RESULT (OUTPUT) LIKE‥─━★‥─━★‥─━★
-<===Your 2020-07-14 Daily Fortune===>
-You will have "lively" today
-with "diligent".
-<===Your 2020-07-14 Daily Fortune===> 
+&nbspThe RESULT (OUTPUT) LIKE‥─━★‥─━★‥─━★
+&nbsp<===Your 2020-07-14 Daily Fortune===>
+&nbspYou will have "lively" today
+&nbspwith "diligent".
+&nbsp<===Your 2020-07-14 Daily Fortune===> 
  
