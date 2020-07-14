@@ -2,7 +2,7 @@
 
  *꧁༺༻꧂* PURPOSE :
 Using Callable function to better understanding python's Decorator
-&nbspIt facillitates your python code when analysing or NLP system.
+&nbsp;It facillitates your python code when analysing or NLP system.
 
 
 AND
