@@ -6,15 +6,15 @@ It facillitates your python code when analysing or NLP system.
 
 
 AND
- ค^•ﻌ•^ค  ʅʕ´•ﻌ•`ʔʃ 
+ ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค
 Wish Your Best Luck with DAILY FORTUNE!!
 
  ✧ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧ 
  
  
  The RESULT (OUTPUT) LIKE‥─━★‥─━★‥─━★
-\n <===Your 2020-07-14 Daily Fortune===>
-\n You will have "lively" today
-\n with "diligent".
-\n <===Your 2020-07-14 Daily Fortune===>
+<===Your 2020-07-14 Daily Fortune===>
+You will have "lively" today
+with "diligent".
+<===Your 2020-07-14 Daily Fortune===>
  
