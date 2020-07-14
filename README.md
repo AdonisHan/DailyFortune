@@ -6,6 +6,12 @@ Using Callable function to better understanding python's Decorator
 
 It facillitates your python code when analysing or NLP system.
 
+# Python Package
+import collections as cl
+
+from random import choice
+
+import datetime
 
 AND
  ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค
