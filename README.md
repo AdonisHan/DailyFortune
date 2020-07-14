@@ -16,5 +16,5 @@ Wish Your Best Luck with DAILY FORTUNE!!
 <===Your 2020-07-14 Daily Fortune===>
 You will have "lively" today
 with "diligent".
-<===Your 2020-07-14 Daily Fortune===>
+<===Your 2020-07-14 Daily Fortune===> 
  
