@@ -13,8 +13,8 @@ Wish Your Best Luck with DAILY FORTUNE!!
  
  
  The RESULT (OUTPUT) LIKE‥─━★‥─━★‥─━★
-<===Your 2020-07-14 Daily Fortune===>
-You will have "lively" today
-with "diligent".
-<===Your 2020-07-14 Daily Fortune===>
+\n <===Your 2020-07-14 Daily Fortune===>
+\n You will have "lively" today
+\n with "diligent".
+\n <===Your 2020-07-14 Daily Fortune===>
  
