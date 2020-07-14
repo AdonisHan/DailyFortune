@@ -6,13 +6,6 @@ Using Callable function to better understanding python's Decorator
 
 It facillitates your python code when analysing or NLP system.
 
-# Python Package
-import collections as cl
-
-from random import choice
-
-import datetime
-
 AND
  ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค ค^•ﻌ•^ค
 Wish Your Best Luck with DAILY FORTUNE!!
@@ -34,3 +27,18 @@ with "diligent".
 
 <===Your 2020-07-14 Daily Fortune===> 
  
+# Python Package
+import collections as cl
+
+from random import choice
+
+import datetime
+
+# Stop Word List
+Adv, Adj list 
+
+Instead
+
+Stopword = ['keyword'] 
+
+WILL BE REMARKABLE ON YOUR NLP.
